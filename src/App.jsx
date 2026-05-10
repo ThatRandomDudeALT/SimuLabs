@@ -1358,7 +1358,7 @@ export default function App() {
             </div>
 
             <div className="text-[10px] text-slate-500 italic mt-4 pt-3 border-t border-slate-800/80 leading-tight">
-              💡 <strong>Exam Tip:</strong>Read small so you at least know what you're copying
+              💡 <strong>Exam Tip:</strong>Make sure you write legibly
             </div>
           </section>
         </div>
