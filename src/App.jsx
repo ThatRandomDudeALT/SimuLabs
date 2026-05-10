@@ -527,11 +527,11 @@ export default function App() {
         <div>
           <div className="flex items-center gap-2">
             <h1 className="text-3xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-              SimuLab™ WASSCE
+              SimuLab™ NNSS OJO STEM GROUP
             </h1>
-            <span className="bg-cyan-500/10 text-cyan-400 text-xs px-2.5 py-0.5 rounded-full border border-cyan-500/20 font-bold">Shitta Suite</span>
+            <span className="bg-cyan-500/10 text-cyan-400 text-xs px-2.5 py-0.5 rounded-full border border-cyan-500/20 font-bold">NNSS OJO</span>
           </div>
-          <p className="text-slate-400 text-xs sm:text-sm">Ojo, I'm looking at you</p>
+          <p className="text-slate-400 text-xs sm:text-sm">Made by the students of NNSS Ojo</p>
         </div>
         <div className="flex flex-wrap gap-2">
           <button 
